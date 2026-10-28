@@ -6,15 +6,15 @@ It gives the assignment a Git repository and a place to continue. The required p
 
 ## Assignment checklist
 
-- [ ] Create a Laravel project and confirm it runs locally with Artisan.
-- [ ] Implement `/`, `/about`, `/customers`, and `/users` in `routes/web.php`.
-- [ ] Create `PageController`, `CustomerController`, and `UserController`.
-- [ ] Add at least five static sample records to each account controller.
-- [ ] Create the four Blade views and loop through customer and user records with `@foreach`.
-- [ ] Add navigation between all four pages.
-- [ ] Include the requested database export, or migration and seeder files.
-- [ ] Run and check every route.
-- [ ] Deploy the application and add its live URL here.
+- [x] Create a Laravel project and confirm it runs locally with Artisan.
+- [x] Implement `/`, `/about`, `/customers`, and `/users` in `routes/web.php`.
+- [x] Create `PageController`, `CustomerController`, and `UserController`.
+- [x] Add at least five static sample records to each account controller.
+- [x] Create the four Blade views and loop through customer and user records with `@foreach`.
+- [x] Add navigation between all four pages.
+- [x] Include the requested database export, or migration and seeder files.
+- [x] Run and check every route.
+- [x] Deploy the application and add its live URL here.
 
 **Hosted application:** Not deployed.
 
